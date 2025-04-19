@@ -1,7 +1,3 @@
-# Joshua Clemas, Jeronimo Martinez Barragan
-# Lecture Feb 6th
-# Pair programming exercise - Palindrome Number Checker
-
 print("Palindrome checker:")
 while True:
     # User input
