@@ -1,2 +1,2 @@
 # Palindrome-Checker
-Basic palindrome checker
+Simple and basic palindrome checker.
